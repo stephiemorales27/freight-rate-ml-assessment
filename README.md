@@ -1,4 +1,4 @@
-# Freight Rate Prediction Challenge
+# Freight Rate Prediction 
 
 Predicts `posted_rate` for freight loads from lane, equipment, weight, date
 and market-signal features, using historical loads in `data/train_test.csv`
